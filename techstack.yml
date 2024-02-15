@@ -1,0 +1,869 @@
+repo_name: larabecker/bower
+report_id: a499da2b6091bb8a20ad1a1d2393e455
+version: 0.1
+repo_type: Public
+timestamp: '2024-02-15T18:01:49+00:00'
+requested_by: sindresorhus
+provider: github
+branch: master
+detected_tools_count: 53
+tools:
+- name: Handlebars.js
+  description: Minimal Templating on Steroids
+  website_url: http://handlebarsjs.com/
+  version: 2.0.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Templating Languages & Extensions
+  image_url: https://img.stackshare.io/service/1143/Handlebars.png
+  detection_source_url: https://github.com/larabecker/bower/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Sindre Sorhus
+  last_updated_on: 2014-09-06 15:20:32.000000000 Z
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/larabecker/bower
+  detection_source: Repo Metadata
+- name: Python
+  description: A clear and powerful object-oriented programming language, comparable
+    to Perl, Ruby, Scheme, or Java.
+  website_url: https://www.python.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/larabecker/bower/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: André Cruz
+  last_updated_on: 2013-04-05 23:21:28.000000000 Z
+- name: ".NET"
+  description: A free, cross-platform, open source developer platform for building
+    many different types of applications
+  website_url: http://www.microsoft.com/net/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1014/IoPy1dce_400x400.png
+  detection_source_url: https://github.com/larabecker/bower/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: André Cruz
+  last_updated_on: 2013-04-05 23:21:28.000000000 Z
+- name: ServiceStack
+  description: A configuration free, code-first, light-weight framework
+  website_url: https://servicestack.net/
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/2773/JuTVEkWX_400x400.jpg
+  detection_source_url: https://github.com/larabecker/bower/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: André Cruz
+  last_updated_on: 2013-04-05 23:21:28.000000000 Z
+- name: Coveralls
+  description: Track your project's code coverage over time, changes to files, and
+    badge your GitHub repo
+  website_url: https://coveralls.io/
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Code Coverage
+  image_url: https://img.stackshare.io/service/680/a43e4a04cb9f778842de43f95db59a14.png
+  detection_source_url: https://github.com/larabecker/bower/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Sindre Sorhus
+  last_updated_on: 2014-07-04 22:26:46.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/larabecker/bower
+  detection_source: Repo Metadata
+- name: Grunt
+  description: The JavaScript Task Runner
+  website_url: http://gruntjs.com/
+  version: 0.4.4
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JS Build Tools / JS Task Runners
+  image_url: https://img.stackshare.io/service/845/falgg2jybmhgk16y62lr.png
+  detection_source_url: https://github.com/larabecker/bower/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Sindre Sorhus
+  last_updated_on: 2014-09-06 15:20:32.000000000 Z
+- name: Istanbul
+  description: A JS code coverage tool written in JS
+  website_url: http://gotwarlost.github.io/istanbul/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Coverage
+  image_url: https://img.stackshare.io/service/2105/default_78659c552327b8ff3592c2aa1694ea92c974a8d5.png
+  detection_source_url: https://github.com/larabecker/bower/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Sindre Sorhus
+  last_updated_on: 2014-09-06 15:20:32.000000000 Z
+- name: Mocha
+  description: Simple, flexible, fun javascript test framework for node.js &amp; the
+    browser
+  website_url: http://mochajs.org/
+  version: 1.21.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/832/mocha.png
+  detection_source_url: https://github.com/larabecker/bower/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Sindre Sorhus
+  last_updated_on: 2014-09-06 15:20:32.000000000 Z
+- name: NuGet
+  description: The package manager for .NET
+  website_url: https://www.nuget.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/service/2637/6I3oEOP4_400x400.jpg
+  detection_source_url: https://github.com/larabecker/bower/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: André Cruz
+  last_updated_on: 2013-04-05 23:21:28.000000000 Z
+- name: PyPI
+  description: A repository of software for the Python programming language
+  website_url: https://pypi.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Hosted Package Repository
+  image_url: https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg
+  detection_source_url: https://github.com/larabecker/bower/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: André Cruz
+  last_updated_on: 2013-04-05 23:21:28.000000000 Z
+- name: Travis CI
+  description: A hosted continuous integration service for open source and private
+    projects
+  website_url: http://travis-ci.com/
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png
+  detection_source_url: https://github.com/larabecker/bower/blob/master/.travis.yml
+  detection_source: ".travis.yml"
+  last_updated_by: Tim Monks
+  last_updated_on: 2014-04-17 00:03:27.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/larabecker/bower/blob/master/test/packages.json
+  detection_source: test/packages.json
+  last_updated_by: André Cruz
+  last_updated_on: 2013-08-04 19:41:42.000000000 Z
+- name: Insight
+  description: Dashboard and analytics for teams using Pivotal Tracker.
+  website_url: https://www.in-sight.io
+  open_source: false
+  hosted_saas: false
+  category: Collaboration
+  sub_category: Agile Project Management
+  image_url: https://img.stackshare.io/service/1511/u4rarRMd.png
+  detection_source_url: https://github.com/larabecker/bower/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Rodolphe Gohard
+  last_updated_on: 2014-09-19 10:03:20.000000000 Z
+- name: Q
+  description: A promise library for JavaScript
+  website_url: https://github.com/kriskowal/q
+  version: 1.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/service/4697/default_2d5a1d7c5eb520cdeb7db120e767345004a1d0d4.png
+  detection_source_url: https://github.com/larabecker/bower/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: André Cruz
+  last_updated_on: 2013-04-05 23:21:28.000000000 Z
+- name: chalk
+  description: terminal colors
+  website_url: https://github.com/chalk/chalk
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/8072/13122722.png
+  detection_source_url: https://github.com/larabecker/bower/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Rodolphe Gohard
+  last_updated_on: 2014-09-19 10:03:20.000000000 Z
+- name: abbrev
+  description: Like ruby's abbrev module, but in js
+  package_url: https://www.npmjs.com/abbrev
+  version: 1.0.4
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18429/default_6d9edf4cb72e43af502b5377a9f3710f31457feb.png
+  detection_source_url: https://github.com/larabecker/bower/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: André Cruz
+  last_updated_on: 2013-07-01 19:31:28.000000000 Z
+- name: archy
+  description: Render nested hierarchies `npm ls` style with unicode pipes
+  package_url: https://www.npmjs.com/archy
+  version: 0.0.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18325/default_b0d06180669cf53f2469ea77b53b5911d72482d5.png
+  detection_source_url: https://github.com/larabecker/bower/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Sindre Sorhus
+  last_updated_on: 2014-07-14 23:50:32.000000000 Z
+- name: chalk
+  description: Terminal string styling done right
+  package_url: https://www.npmjs.com/chalk
+  version: 0.5.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15813/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
+  detection_source_url: https://github.com/larabecker/bower/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Rodolphe Gohard
+  last_updated_on: 2014-09-19 10:03:20.000000000 Z
+- name: expect.js
+  description: BDD style assertions for node and the browser
+  package_url: https://www.npmjs.com/expect.js
+  version: 0.3.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16029/default_261820f5687b4c88a3e8f95c71b5e8dccd34c1d7.png
+  detection_source_url: https://github.com/larabecker/bower/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Sindre Sorhus
+  last_updated_on: 2014-04-22 13:04:42.000000000 Z
+- name: fstream
+  description: Advanced file system stream things
+  package_url: https://www.npmjs.com/fstream
+  version: 1.0.2
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17330/default_1e90600620937d8a59b79d4a426c6d60e5051788.png
+  detection_source_url: https://github.com/larabecker/bower/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Sindre Sorhus
+  last_updated_on: 2014-09-06 15:20:32.000000000 Z
+  vulnerabilities:
+  - name: Arbitrary File Overwrite in fstream
+    cve_id: CVE-2019-13173
+    cve_url: https://github.com/advisories/GHSA-xf7w-r453-m56c
+    detected_date: Aug 22
+    severity: high
+    first_patched: 1.0.12
+- name: glob
+  description: A little globber
+  package_url: https://www.npmjs.com/glob
+  version: 4.0.2
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15875/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
+  detection_source_url: https://github.com/larabecker/bower/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Sindre Sorhus
+  last_updated_on: 2014-06-10 20:18:26.000000000 Z
+- name: graceful-fs
+  description: A drop-in replacement for fs, making various improvements
+  package_url: https://www.npmjs.com/graceful-fs
+  version: 3.0.1
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16375/default_c47f6a56d74fae4d4404d77067b2fa35da6f1924.png
+  detection_source_url: https://github.com/larabecker/bower/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Sindre Sorhus
+  last_updated_on: 2014-06-10 20:18:26.000000000 Z
+- name: grunt-cli
+  description: The grunt command line interface
+  package_url: https://www.npmjs.com/grunt-cli
+  version: 0.1.13
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16021/default_924b66c04aa848a4028c1a5753a23dae0f835f86.png
+  detection_source_url: https://github.com/larabecker/bower/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Sindre Sorhus
+  last_updated_on: 2014-09-06 15:20:32.000000000 Z
+- name: grunt-contrib-jshint
+  description: Validate files with JSHint
+  package_url: https://www.npmjs.com/grunt-contrib-jshint
+  version: 0.10.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15898/default_59a1b5716eefa3750c20936c3d53ff13a6390ee1.png
+  detection_source_url: https://github.com/larabecker/bower/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Sindre Sorhus
+  last_updated_on: 2014-09-06 15:20:32.000000000 Z
+- name: grunt-contrib-watch
+  description: Run predefined tasks whenever watched file patterns are added
+  package_url: https://www.npmjs.com/grunt-contrib-watch
+  version: 0.6.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15932/default_4dc9671df0093fd7061f6455afdf054e6cc9dacb.png
+  detection_source_url: https://github.com/larabecker/bower/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Sindre Sorhus
+  last_updated_on: 2014-09-06 15:20:32.000000000 Z
+- name: grunt-exec
+  description: Grunt task for executing shell commands
+  package_url: https://www.npmjs.com/grunt-exec
+  version: 0.4.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16754/default_6dc099b12d47e378ae121fb53c336fe5d8f0ffc8.png
+  detection_source_url: https://github.com/larabecker/bower/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Sindre Sorhus
+  last_updated_on: 2014-09-06 15:20:32.000000000 Z
+- name: grunt-simple-mocha
+  description: A simple wrapper for running tests with Mocha
+  package_url: https://www.npmjs.com/grunt-simple-mocha
+  version: 0.4.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16674/default_4b738bf1758d38dddd276589bbea47fca5a990df.png
+  detection_source_url: https://github.com/larabecker/bower/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Sindre Sorhus
+  last_updated_on: 2014-09-06 15:20:32.000000000 Z
+- name: handlebars
+  description: Handlebars provides the power necessary to let you build semantic templates
+    effectively with no frustration
+  package_url: https://www.npmjs.com/handlebars
+  version: 2.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16013/default_f8be85789693a9901dbcfa43c135c60525ae49a1.png
+  detection_source_url: https://github.com/larabecker/bower/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Sindre Sorhus
+  last_updated_on: 2014-09-06 15:20:32.000000000 Z
+  vulnerabilities:
+  - name: Remote code execution in handlebars when compiling templates
+    cve_id: CVE-2021-23369
+    cve_url: https://github.com/advisories/GHSA-f2jv-r9rf-7988
+    detected_date: Aug 22
+    severity: critical
+    first_patched: 4.7.7
+  - name: Prototype Pollution in handlebars
+    cve_id: CVE-2021-23383
+    cve_url: https://github.com/advisories/GHSA-765h-qjxv-5f44
+    detected_date: Feb 11
+    severity: critical
+    first_patched: 4.7.7
+  - name: Prototype Pollution in handlebars
+    cve_id: CVE-2019-19919
+    cve_url: https://github.com/advisories/GHSA-w457-6q6x-cgp9
+    detected_date: Aug 22
+    severity: critical
+    first_patched: 3.0.8
+  - name: Arbitrary Code Execution in Handlebars
+    cve_id: CVE-2019-20920
+    cve_url: https://github.com/advisories/GHSA-3cqr-58rm-57f8
+    detected_date: Feb 11
+    severity: high
+    first_patched: 3.0.8
+  - name: Arbitrary Code Execution in handlebars
+    cve_id: 
+    cve_url: https://github.com/advisories/GHSA-2cf5-4w76-r9qv
+    detected_date: Aug 22
+    severity: high
+    first_patched: 3.0.8
+  - name: Prototype Pollution in handlebars
+    cve_id: 
+    cve_url: https://github.com/advisories/GHSA-g9r4-xpmj-mj65
+    detected_date: Aug 22
+    severity: high
+    first_patched: 3.0.8
+  - name: Prototype Pollution in handlebars
+    cve_id: 
+    cve_url: https://github.com/advisories/GHSA-q42p-pg8m-cqh6
+    detected_date: Aug 22
+    severity: high
+    first_patched: 3.0.7
+  - name: Arbitrary Code Execution in handlebars
+    cve_id: 
+    cve_url: https://github.com/advisories/GHSA-q2c6-c6pm-g3gh
+    detected_date: Aug 22
+    severity: high
+    first_patched: 3.0.8
+  - name: Moderate severity vulnerability that affects handlebars
+    cve_id: 
+    cve_url: https://github.com/advisories/GHSA-fmr4-7g9q-7hc7
+    detected_date: Aug 22
+    severity: moderate
+    first_patched: 4.0.0
+  - name: Remote code execution in Handlebars.js
+    cve_id: 
+    cve_url: https://github.com/advisories/GHSA-6r5x-hmgg-7h53
+    detected_date: Aug 13
+    severity: moderate
+    first_patched: 4.1.0
+  - name: Cross-Site Scripting in handlebars
+    cve_id: CVE-2015-8861
+    cve_url: https://github.com/advisories/GHSA-9prh-257w-9277
+    detected_date: Aug 22
+    severity: moderate
+    first_patched: 4.0.0
+- name: inquirer
+  description: A collection of common interactive command line user interfaces
+  package_url: https://www.npmjs.com/inquirer
+  version: 0.7.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15911/default_4dc9671df0093fd7061f6455afdf054e6cc9dacb.png
+  detection_source_url: https://github.com/larabecker/bower/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Rodolphe Gohard
+  last_updated_on: 2014-09-19 10:03:20.000000000 Z
+- name: load-grunt-tasks
+  description: Load multiple grunt tasks using globbing patterns
+  package_url: https://www.npmjs.com/load-grunt-tasks
+  version: 0.6.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16062/default_924b66c04aa848a4028c1a5753a23dae0f835f86.png
+  detection_source_url: https://github.com/larabecker/bower/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Sindre Sorhus
+  last_updated_on: 2014-09-06 15:20:32.000000000 Z
+- name: lru-cache
+  description: A cache object that deletes the least-recently-used items
+  package_url: https://www.npmjs.com/lru-cache
+  version: 2.5.0
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16386/default_4cc3f31b8c64a6268fc123f0965a09d1b11180af.png
+  detection_source_url: https://github.com/larabecker/bower/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Sindre Sorhus
+  last_updated_on: 2014-04-22 12:55:37.000000000 Z
+- name: mkdirp
+  description: Recursively mkdir, like `mkdir -p`
+  package_url: https://www.npmjs.com/mkdirp
+  version: 0.5.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15881/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
+  detection_source_url: https://github.com/larabecker/bower/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Rodolphe Gohard
+  last_updated_on: 2014-09-19 10:03:20.000000000 Z
+- name: mout
+  description: Modular Utilities
+  package_url: https://www.npmjs.com/mout
+  version: 0.10.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17961/default_ddcb3fb8ca8ccaba871e88d87465cd31ce73df71.png
+  detection_source_url: https://github.com/larabecker/bower/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Rodolphe Gohard
+  last_updated_on: 2014-09-19 10:03:20.000000000 Z
+  vulnerabilities:
+  - name: Prototype Pollution in mout
+    cve_id: CVE-2022-21213
+    cve_url: https://github.com/advisories/GHSA-vvv8-xw5f-3f88
+    detected_date: Jun 21
+    severity: high
+    first_patched: 1.2.4
+  - name: Prototype Pollution in mout
+    cve_id: CVE-2020-7792
+    cve_url: https://github.com/advisories/GHSA-pc58-wgmc-hfjr
+    detected_date: Feb 10
+    severity: high
+    first_patched: 1.2.3
+- name: nock
+  description: HTTP server mocking and expectations library for Node.js
+  package_url: https://www.npmjs.com/nock
+  version: 0.46.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16036/default_5fd43aeff4d6a935abc13737de01a0355210499d.png
+  detection_source_url: https://github.com/larabecker/bower/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Sindre Sorhus
+  last_updated_on: 2014-09-06 15:20:32.000000000 Z
+- name: node-uuid
+  description: Rigorous implementation of RFC4122
+  package_url: https://www.npmjs.com/node-uuid
+  version: 1.4.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16142/default_ac04a744873b460c4ef30a7450ed0c83223640ab.png
+  detection_source_url: https://github.com/larabecker/bower/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Sindre Sorhus
+  last_updated_on: 2014-07-04 22:26:46.000000000 Z
+  vulnerabilities:
+  - name: Insecure Entropy Source - Math.random() in node-uuid
+    cve_id: CVE-2015-8851
+    cve_url: https://github.com/advisories/GHSA-265q-28rp-chq5
+    detected_date: Aug 22
+    severity: high
+    first_patched: 1.4.4
+- name: nopt
+  description: Option parsing for Node, supporting types, shorthands, etc
+  package_url: https://www.npmjs.com/nopt
+  version: 3.0.0
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16662/default_cc0f40a737548852d2ee666c132c258c9a2c0cad.png
+  detection_source_url: https://github.com/larabecker/bower/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Sindre Sorhus
+  last_updated_on: 2014-06-10 20:18:26.000000000 Z
+- name: opn
+  description: Open stuff like URLs, files, executables. Cross-platform
+  package_url: https://www.npmjs.com/opn
+  version: 1.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16099/default_efe4f0184d007a28e793d89a59e058b742bc9177.png
+  detection_source_url: https://github.com/larabecker/bower/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: André Cruz
+  last_updated_on: 2013-04-05 23:21:28.000000000 Z
+- name: osenv
+  description: Look up environment settings specific to different operating systems
+  package_url: https://www.npmjs.com/osenv
+  version: 0.1.0
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17313/default_6afdd1bc7e3815a18b56c31d0b4acf372c00f6e2.png
+  detection_source_url: https://github.com/larabecker/bower/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Rodolphe Gohard
+  last_updated_on: 2014-09-19 10:03:20.000000000 Z
+- name: promptly
+  description: Simple command line prompting utility
+  package_url: https://www.npmjs.com/promptly
+  version: 0.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18676/default_796854034d0fb722b81b1d885cb3ab88a613d5fb.png
+  detection_source_url: https://github.com/larabecker/bower/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Rodolphe Gohard
+  last_updated_on: 2014-09-19 10:03:20.000000000 Z
+- name: proxyquire
+  description: Proxies nodejs require in order to allow overriding dependencies during
+    testing
+  package_url: https://www.npmjs.com/proxyquire
+  version: 1.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16138/default_63a34654baee757196ddff2457bd1c9a0dfb7287.png
+  detection_source_url: https://github.com/larabecker/bower/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Rodolphe Gohard
+  last_updated_on: 2014-09-19 10:03:20.000000000 Z
+- name: request
+  description: Simplified HTTP request client
+  package_url: https://www.npmjs.com/request
+  version: 2.42.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15823/default_5e5e8ac63beda29f31f1844df64d4b8247570a66.png
+  detection_source_url: https://github.com/larabecker/bower/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Rodolphe Gohard
+  last_updated_on: 2014-09-19 10:03:20.000000000 Z
+  vulnerabilities:
+  - name: Server-Side Request Forgery in Request
+    cve_id: CVE-2023-28155
+    cve_url: https://github.com/advisories/GHSA-p8p7-x288-28g6
+    detected_date: Mar 17
+    severity: moderate
+    first_patched: 
+  - name: Remote Memory Exposure in request
+    cve_id: CVE-2017-16026
+    cve_url: https://github.com/advisories/GHSA-7xfp-9c55-5vqj
+    detected_date: Aug 22
+    severity: moderate
+    first_patched: 2.68.0
+- name: request-progress
+  description: Tracks the download progress of a request made with mikeal/request
+  package_url: https://www.npmjs.com/request-progress
+  version: 0.3.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18529/default_6d0416098b5583c02111044f891c8f1f8e30a97e.png
+  detection_source_url: https://github.com/larabecker/bower/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Rodolphe Gohard
+  last_updated_on: 2014-09-19 10:03:20.000000000 Z
+- name: retry
+  description: Abstraction for exponential and custom retry strategies for failed
+    operations
+  package_url: https://www.npmjs.com/retry
+  version: 0.6.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18127/image.png
+  detection_source_url: https://github.com/larabecker/bower/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Rodolphe Gohard
+  last_updated_on: 2014-09-19 10:03:20.000000000 Z
+- name: rimraf
+  description: A deep deletion module for node
+  package_url: https://www.npmjs.com/rimraf
+  version: 2.2.0
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15807/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
+  detection_source_url: https://github.com/larabecker/bower/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: André Cruz
+  last_updated_on: 2013-07-14 16:22:07.000000000 Z
+- name: semver
+  description: The semantic version parser used by npm
+  package_url: https://www.npmjs.com/semver
+  version: 2.3.0
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18809/default_dad3dc9dde4b82dc2a7bd32aa091165887abe57b.png
+  detection_source_url: https://github.com/larabecker/bower/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Sindre Sorhus
+  last_updated_on: 2014-06-10 20:18:26.000000000 Z
+  vulnerabilities:
+  - name: Regular Expression Denial of Service in semver
+    cve_id: CVE-2015-8855
+    cve_url: https://github.com/advisories/GHSA-x6fg-f45m-jf5q
+    detected_date: Aug 22
+    severity: high
+    first_patched: 4.3.2
+  - name: semver vulnerable to Regular Expression Denial of Service
+    cve_id: CVE-2022-25883
+    cve_url: https://github.com/advisories/GHSA-c2qf-rxjj-qqgw
+    detected_date: Jun 23
+    severity: moderate
+    first_patched: 5.7.2
+- name: shell-quote
+  description: Quote and parse shell commands
+  package_url: https://www.npmjs.com/shell-quote
+  version: 1.4.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17489/default_188fa5cbc974fa18aed5a9b1f0d7f2bfaf8f1648.png
+  detection_source_url: https://github.com/larabecker/bower/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Sindre Sorhus
+  last_updated_on: 2014-04-22 12:55:37.000000000 Z
+  vulnerabilities:
+  - name: Improper Neutralization of Special Elements used in a Command in Shell-quote
+    cve_id: CVE-2021-42740
+    cve_url: https://github.com/advisories/GHSA-g4rg-993r-mgx7
+    detected_date: Jun 22
+    severity: critical
+    first_patched: 1.7.3
+  - name: Potential Command Injection in shell-quote
+    cve_id: CVE-2016-10541
+    cve_url: https://github.com/advisories/GHSA-qg8p-v9q4-gh34
+    detected_date: Aug 22
+    severity: critical
+    first_patched: 1.6.1
+- name: stringify-object
+  description: Stringify an object/array like JSON.stringify just without all the
+    double-quotes
+  package_url: https://www.npmjs.com/stringify-object
+  version: 1.0.0
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18738/default_45da7a7c78da21b4de04db19cc949c3490185f5e.png
+  detection_source_url: https://github.com/larabecker/bower/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Sindre Sorhus
+  last_updated_on: 2014-09-06 15:20:32.000000000 Z
+- name: tar-fs
+  description: Filesystem bindings for tar-stream
+  package_url: https://www.npmjs.com/tar-fs
+  version: 0.5.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17431/default_f52a9ea80d1a46080182faf142d844b81ca11aa6.png
+  detection_source_url: https://github.com/larabecker/bower/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Rodolphe Gohard
+  last_updated_on: 2014-09-19 10:03:20.000000000 Z
+  vulnerabilities:
+  - name: Improper Input Validation in tar-fs
+    cve_id: CVE-2018-20835
+    cve_url: https://github.com/advisories/GHSA-x2mc-8fgj-3wmr
+    detected_date: Aug 22
+    severity: high
+    first_patched: 1.16.2
+- name: tmp
+  description: Temporary file and directory creator
+  package_url: https://www.npmjs.com/tmp
+  version: 0.0.23
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16251/default_380ae3d73e22c7ca1f42b96479bcd0095dabc0d3.png
+  detection_source_url: https://github.com/larabecker/bower/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: André Cruz
+  last_updated_on: 2013-04-05 23:21:28.000000000 Z
+- name: update-notifier
+  description: Update notifications for your CLI app
+  package_url: https://www.npmjs.com/update-notifier
+  version: 0.2.0
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16264/default_f04d39fc656c2e32ee1b9d3875a3002459aa3b69.png
+  detection_source_url: https://github.com/larabecker/bower/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Rodolphe Gohard
+  last_updated_on: 2014-09-19 10:03:20.000000000 Z
+- name: which
+  description: Like which
+  package_url: https://www.npmjs.com/which
+  version: 1.0.5
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16482/default_482cf308e8fc087eee8e154f29cc142c834abc51.png
+  detection_source_url: https://github.com/larabecker/bower/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Sindre Sorhus
+  last_updated_on: 2014-04-22 12:55:37.000000000 Z
